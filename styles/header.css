@@ -25,6 +25,7 @@ max-width: 384px;
 border-radius: 100%;
 width: 176px;
 height: 176px;
+object-fit: cover;
 }
 
 #profile h1 {
